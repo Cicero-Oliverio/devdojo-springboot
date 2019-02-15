@@ -1,4 +1,4 @@
-package br.com.devdojo.awesome.model.model;
+package br.com.devdojo.awesome.model;
 
 public class Student {
 
